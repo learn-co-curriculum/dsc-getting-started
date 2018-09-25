@@ -9,6 +9,7 @@
 Introduction goes here
 
 ## Objectives
+You will be able to:
 * SWBATS 
 * GO 
 * HERE
