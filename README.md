@@ -14,25 +14,25 @@ You will be able to:
 * GO 
 * HERE
 
-## Objective 1 Title
+## Title 1 
 
 
 ```python
-# Objective 1 content
+## content
 ```
 
-## Objective 2 Title
+## Title 2
 
 
 ```python
-## Objective 2 content
+## content
 ```
 
-## Objective 3 Title
+## Title 3
 
 
 ```python
-## Objective 3 content
+## content
 ```
 
 ## Summary
