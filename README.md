@@ -1,38 +1,43 @@
 
-***This is the template for creating a readme lesson for Data Science. Please make sure to change the title to the appropriate topic, add an introduction, objectives (which should be taken from the lesson's outlined SWBATS), the lesson's content, and summary.***
+# Lesson Title
 
-> Note: If possible, structure the lesson's content according to the listed objectives. This helps to give a flow and framework for the material being presented to students.
-
-# LESSON TITLE
+> Note: 
+- Words in all titles are capitalized, **except** articles (a, an, the), conjunctions (and, but, for,...), short prepositions (at, by, from,...)
+- Titles at the very top of the notebook have 1 "#"
+- Lesson Title in Jupyter Notebook and Title on airtable should **match exactly**
 
 ## Introduction
 Introduction goes here
 
+> Note: 
+  - Introduction, Objectives, Topic Titles, and Summary all have '##'
+  - You can further subdivide Topic Titles in subsections: ###, #### etc.
+
 ## Objectives
-You will be able to:
-* SWBATS 
-* GO 
-* HERE
+You will be able to: 
+* SWBAT 1
+* SWBAT 2
+* SWBAT 3
 
-## Title 1 
+## Topic Title 1
 
 
 ```python
-## content
+## content for topic title 1
 ```
 
-## Title 2
+## Topic Title 2
 
 
 ```python
-## content
+## content for topic title 2
 ```
 
-## Title 3
+## Topic Title 3
 
 
 ```python
-## content
+# content for topic title 3
 ```
 
 ## Summary
