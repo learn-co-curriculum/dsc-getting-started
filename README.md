@@ -4,7 +4,7 @@
 > Note: 
 - Words in all titles are capitalized, **except** articles (a, an, the), conjunctions (and, but, for,...), short prepositions (at, by, from,...)
 - Titles at the very top of the notebook have 1 "#"
-- Lesson Title in Jupyter Notebook and Title on airtable should **match exactly**
+- Lesson title in Jupyter Notebook and title on airtable should **match exactly**
 
 ## Introduction
 Introduction goes here
@@ -37,7 +37,7 @@ You will be able to:
 
 
 ```python
-# content for topic title 3
+## content for topic title 3
 ```
 
 ## Summary
